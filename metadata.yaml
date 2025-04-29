@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '58138'
     url: http://www.gutenberg.org/2009/agents/58138
     wikipedia: https://en.wikipedia.org/wiki/Chick_Evans
+covers:
+- cover_type: archival
+  image_path: 75777-h/images/cover.jpg
 creator:
   author:
     agent_name: Taylor, Bert Leston
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34327
     wikipedia: https://en.wikipedia.org/wiki/Bert_Leston_Taylor
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75777#A-line-o-gowf-or-two
 gutenberg_issued: '2025-04-02'
 gutenberg_type: Text
 identifiers:
